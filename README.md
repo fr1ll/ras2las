@@ -1,0 +1,2 @@
+# raslas
+Well log digitalization
