@@ -4,7 +4,7 @@ a.k.a. the young and the raslas. Started at the geophysics hackathon before SEG 
 put on by Agile Scientific
 
 #### Goal:
-Web app to digitize well logs.
+Web app to digitize well logs. /n
 Input PDF --> output LAS
 
 #### Contributors:
