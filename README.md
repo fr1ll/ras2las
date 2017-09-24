@@ -8,11 +8,11 @@ Web app to digitize well logs.
 Input PDF --> output LAS
 
 #### Contributors:
-+Diego Castaneda
-+Lanre Aboaba
-+Chance Sanger
-+Suman Gautam
-+Will Sanger
+*Diego Castaneda
+*Lanre Aboaba
+*Chance Sanger
+*Suman Gautam
+*Will Sanger
 
 #### Dependencies (partial list)
 +Tensorflow
