@@ -1,5 +1,4 @@
-# raslas
-Well log digitalization
+# raslas - Well log digitalization
 a.k.a. the young and the raslas. Started at the [geophysics hackathon before SEG 2017 annual meeting] (https://agilescientific.com/events/2017/9/22/geophysics-hackathon)
 put on by Agile Scientific.
 
