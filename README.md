@@ -11,11 +11,11 @@ Web app to digitize well logs.
 Input PDF --> output LAS
 
 #### Contributors:
-+ Diego Castaneda
++ [Diego Castaneda](https://github.com/dfcastap)
 + Lanre Aboaba
-+ Chance Sanger
-+ Suman Gautam
-+ Will Sanger
++ [Chance Sanger](https://github.com/chancesang)
++ [Suman Gautam](https://github.com/sgotham)
++ [Will Sanger](https://github.com/willsa14)
 
 #### Dependencies (partial list)
 + Tensorflow
@@ -27,3 +27,4 @@ Input PDF --> output LAS
 + Work on the key components, firstly:
   + Picking curve with CNN
   + Scaling curve picks based on axes labels
+    + Method to reject bad axes label picks
