@@ -19,8 +19,9 @@ Input PDF --> output LAS
 
 #### Dependencies (partial list)
 + Tensorflow
-+ Google Vision service
-+ Wand
++ Google Vision service (for OCR)
++ Wand (for reading PDFs)
++ [welly](https://github.com/agile-geoscience/welly) and lasio (for handling .las format well logs)
 
 #### Needs:
 + More open training datasets with both raster and .las.
