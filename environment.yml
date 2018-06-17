@@ -1,0 +1,22 @@
+name: ras2las
+channels:
+- defaults
+- peterjc123
+dependencies:
+- miniconda3
+- scipy
+- numpy
+- pandas
+- cuda90
+- cudnn
+- pillow
+- python>=3.6.0
+- seaborn
+- altair
+- pip:
+  - pandas_summary
+  - opencv-python
+  - tensorflow-gpu
+  - keras
+  - graphviz
+  - pydot
